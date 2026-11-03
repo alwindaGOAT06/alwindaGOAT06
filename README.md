@@ -1,16 +1,51 @@
-## Hi there 👋
+Hey, I’m Alwin Babu Francis! 👋
 
-<!--
-**alwindaGOAT06/alwindaGOAT06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Undergraduate | Aspiring Security Professional
 
-Here are some ideas to get you started:
+I’m currently pursuing my B.Tech in Cybersecurity at Amal Jyothi College of Engineering (2025–2029).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about technology, programming, and exploring the world of cybersecurity. Currently learning, experimenting, and building my skills one project at a time.
+
+⸻
+
+💻 Tech Stack
+
+Programming Languages
+
+* Python
+* C
+* Java
+
+Areas of Interest
+
+* Cybersecurity
+* Network Security
+* Information Security
+
+⸻
+
+🚀 Currently Working On
+
+* Strengthening my Python programming skills
+* Learning practical cybersecurity concepts
+* Building my first projects and growing my GitHub portfolio
+
+⸻
+
+🎯 Goals
+
+* Build practical cybersecurity projects
+* Develop strong programming fundamentals
+* Gain hands-on experience through internships
+* Continuously learn and explore new technologies
+
+⸻
+
+📫 Connect With Me
+
+* Email: alwin.babu2006@gmail.com
+* GitHub: @alwindaGOAT06
+
+⸻
+
+“Learning today, securing tomorrow.” 🔐
