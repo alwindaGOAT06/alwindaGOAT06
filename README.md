@@ -29,6 +29,11 @@ Areas of Interest
 * Strengthening my Python programming skills
 * Learning practical cybersecurity concepts
 * Building my first projects and growing my GitHub portfolio
+* ### 🔐 Featured Project
+
+**[Password Strength Checker](https://github.com/alwindaGOAT06/password-strength-checker)**
+
+A Python-based password strength checker that evaluates password characteristics and provides suggestions for improvement.
 
 ⸻
 
